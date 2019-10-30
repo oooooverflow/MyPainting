@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/MyImages">
+        <file>images/Circle.png</file>
+        <file>images/Ellipse.png</file>
+        <file>images/Fill.png</file>
+        <file>images/Line.png</file>
+        <file>images/Rotate.png</file>
+        <file>images/Translation.png</file>
+        <file>images/Zoom.png</file>
+        <file>images/Edit.png</file>
+        <file>images/Polygon.png</file>
+        <file>images/Open.png</file>
+        <file>images/Save.png</file>
+        <file>images/Cut.png</file>
+        <file>images/Curve.png</file>
+        <file>images/Color.png</file>
+    </qresource>
+</RCC>
